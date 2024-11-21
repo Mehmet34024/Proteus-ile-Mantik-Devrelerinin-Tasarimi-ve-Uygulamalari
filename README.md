@@ -9,9 +9,19 @@ Proteus, Devre Kavramını Anlama, Analog Devre Tasarımı, PCB Tasarımı, Devr
 
 Raporun içerisinde, aşağıdaki başlıklara yer verilmiştir:
 
-Mantık Devrelerinin Temel Kavramları: Devre tasarımında kullanılan temel mantık elemanları ve bu elemanların işlevleri.
-Proteus ile Devre Tasarımı: Proteus yazılımı ile basit mantık devrelerinin nasıl oluşturulacağı, simülasyonlarının nasıl yapılacağı.
-Uygulamalı Örnekler ve Analizler: Farklı mantık devrelerinin tasarımı, çeşitli uygulamalar ve elde edilen sonuçlar.
-Devre Hatalarının Tespiti ve Düzeltme: Simülasyon sırasında karşılaşılan sorunlar ve bunların nasıl çözüldüğü.
-Sonuçlar ve Öğrenilenler: Bu süreçte elde edilen öğrenimler, karşılaşılan zorluklar ve yazılım mühendisliği açısından mantık devrelerinin önemi.
+-Mantık Devrelerinin Temel Kavramları:
+Devre tasarımında kullanılan temel mantık elemanları ve bu elemanların işlevleri.
+
+-Proteus ile Devre Tasarımı:
+Proteus yazılımı ile basit mantık devrelerinin nasıl oluşturulacağı, simülasyonlarının nasıl yapılacağı.
+
+-Uygulamalı Örnekler ve Analizler:
+Farklı mantık devrelerinin tasarımı, çeşitli uygulamalar ve elde edilen sonuçlar.
+
+-Devre Hatalarının Tespiti ve Düzeltme:
+Simülasyon sırasında karşılaşılan sorunlar ve bunların nasıl çözüldüğü.
+
+-Sonuçlar ve Öğrenilenler:
+Bu süreçte elde edilen öğrenimler, karşılaşılan zorluklar ve yazılım mühendisliği açısından mantık devrelerinin önemi.
+
 GitHub’a yüklenen bu rapor, hem öğrenci olarak yapılan çalışmaları belgelemek hem de benzer konularda bilgi edinmek isteyen diğer kişilere rehberlik sağlamak amacıyla paylaşılmaktadır.
