@@ -1,5 +1,5 @@
 void setup() {
-  // İlk başta arduino üzride kullanacağımız bacakları çıkış bacağı olarak tanımlıyoruz:
+  // İlk başta arduino üzride kullanacağımız bacakları çıkış bacağı olarak tanımlıyoruz
 
  pinMode(2,OUTPUT);
  pinMode(3,OUTPUT);
